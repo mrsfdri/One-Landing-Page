@@ -7,9 +7,8 @@
  - [Link of template](https://www.tooplate.com/view/2117-infinite-loop)
 ## TEST
 
-To test this project run
-
+Before test this project It is better to create an environment and then install the required packages
 ```bash
   pip install -r requirements.txt
 ```
-
+Then run the server and access it from localhost :)
